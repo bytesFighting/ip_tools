@@ -11,6 +11,3 @@ python3 ip_tools.py
 
 如果发现问题，欢迎issues。
 
-如果你觉得好用，别忘了给我买杯咖啡。
-
-![](demo/weixins.png)
